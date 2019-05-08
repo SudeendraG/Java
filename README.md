@@ -1,7 +1,7 @@
 # Java
 Contains All Java Programs related to concepts
 
-# java8
+# Java8
 1. Java 8 – Lambda Expression
 2. Java 8 – Method references
 3. Java 8 – Functional interfaces
