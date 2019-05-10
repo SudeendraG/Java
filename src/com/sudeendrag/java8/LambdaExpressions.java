@@ -9,7 +9,8 @@ package com.sudeendrag.java8;
  * No return type – The java 8 compiler is able to infer the return type by checking the code. you need not to mention it explicitly.
  * To use function interface:
   	Pre Java 8: We create anonymous inner classes.
-	Post Java 8: You can use lambda expression instead of anonymous inner classes.
+	Post Java 8: You can use lambda expression instead of anonymous inner classes only when annonymous inner class implementing Functional interface
+	Anonymous inner class is  more powerful than lambda.
  * */
 public class LambdaExpressions {
 	public static void main(String[] args) {

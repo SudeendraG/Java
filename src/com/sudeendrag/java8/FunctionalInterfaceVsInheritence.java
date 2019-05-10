@@ -1,6 +1,6 @@
 package com.sudeendrag.java8;
 
-//valid only if child doesnt contain any abstract methods
+//valid only if child doesn't contain any abstract methods
 //
 @FunctionalInterface
 public interface FunctionalInterfaceVsInheritence extends FunctionalInterfaceExampleJava8 {

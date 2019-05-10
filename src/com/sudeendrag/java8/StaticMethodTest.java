@@ -6,12 +6,13 @@ public class StaticMethodTest implements StaticMethodInterface {
 	public void getReoprt(String str) {
 		System.out.println("getting Resultss....");
 	}
-	static void sendNotification(){  
-		  System.out.println("Sending email via test....");
-	  }
+ 
 	
 		public static void main(String[] args) {
-			StaticMethodTest.sendNotification();
-			StaticMethodInterface.sendNotification();
+			//StaticMethodTest.sendNotification();  //wrong
+			//sendNotification();  // compiler error
+			StaticMethodTest test= new StaticMethodTest();
+			//test.sendNotification();   // compiler error
+			StaticMethodInterface.sendNotification();  //only way to access the static methods is using interface
 		}
 }
