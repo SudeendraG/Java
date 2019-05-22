@@ -7,6 +7,15 @@ public class Employee implements Comparable<Employee>{
 	public String getName() {
 		return name;
 	}
+	public Employee() {
+	}
+	public Employee(String name, int id, int salary) {
+		super();
+		this.name = name;
+		this.id = id;
+		this.salary = salary;
+	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
