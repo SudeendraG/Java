@@ -1,5 +1,6 @@
-# Java
-Contains All Java Programs related to concepts
+# collections
+
+# Puzzle Programs
 
 # Java8
 1. Java 8 – Lambda Expression
@@ -13,3 +14,5 @@ Contains All Java Programs related to concepts
 9. Java 8 – StringJoiner class with example
 10. Java 8 – Optional class with example
 11. Java 8 – Arrays Parallel Sort
+
+# strings
