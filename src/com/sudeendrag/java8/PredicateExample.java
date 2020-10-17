@@ -1,5 +1,6 @@
 package com.sudeendrag.java8;
 
+import java.util.Optional;
 import java.util.function.Predicate;
 
 import com.sudeendrag.corejava.collections.Employee;
@@ -14,6 +15,9 @@ return : boolean
 public class PredicateExample {
 	
 	public static void main(String[] args) {
+		System.out.println(Optional.ofNullable(null));
+		System.out.println(Optional.of(null));
+
 		Predicate<Integer> p=i->i%2==0;
 		Predicate<Integer> p1=i->i>10;
 		System.out.println(p.test(10));
