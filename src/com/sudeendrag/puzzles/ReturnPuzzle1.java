@@ -1,4 +1,4 @@
-package com.sudeendrag.puzzleprograms;
+package com.sudeendrag.puzzles;
 
 /*A return statement inside a finally block will
 		cause any exception that

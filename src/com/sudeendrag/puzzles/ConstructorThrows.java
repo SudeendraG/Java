@@ -1,4 +1,4 @@
-package com.sudeendrag.puzzleprograms;
+package com.sudeendrag.puzzles;
 
 // Checked and Unchecked Propagation
 public class ConstructorThrows {

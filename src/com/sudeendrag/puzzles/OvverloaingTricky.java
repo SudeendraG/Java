@@ -1,4 +1,4 @@
-package com.sudeendrag.puzzleprograms;
+package com.sudeendrag.puzzles;
 
 /*when there is exactly one pair of overloaded method 
 and one of them has a parameter type Object then the 

@@ -1,6 +1,6 @@
 # Collections
 
-# Puzzle Programs
+# Java Puzzles
 
 # Java8
 1. Java 8 – Lambda Expression
