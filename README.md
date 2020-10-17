@@ -1,4 +1,4 @@
-# collections
+# Collections
 
 # Puzzle Programs
 
@@ -15,4 +15,4 @@
 10. Java 8 – Optional class with example
 11. Java 8 – Arrays Parallel Sort
 
-# strings
+# Strings
